@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+body{
+	margin: 0;
+	padding:0;
+}
+.content{
+	width: 100%;
+	background: #E3E3E3;
+	text-align: center;
+}
+.topbutton a{
+	display: block;
+	width: 40px;
+	height: 40px;
+	color: #FFFFFF;
+	font-size: 15px;
+	line-height: 40px;
+	background: #8E8E8E;
+	border-radius: 3px;
+	text-decoration: none;
+	text-align: center;
+	transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	transition:background 1s;
+	-wekbit-transition:background 1s;
+}
+
+.topbutton a:hover{
+	background: #3498db;
+}
