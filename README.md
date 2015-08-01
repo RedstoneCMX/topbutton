@@ -8,7 +8,6 @@
 本插件用于页面返回顶部功能，由于使用了jquery，所以在使用时请在页面头部引用jquery的js文件
 <br/><br/>
 ##参数设定
-<br/>
 Showbuttondistance:滚动条距离顶部多少px显示返回按钮，默认100px
 <br/>
 FadeIntime:返回按钮渐变显示的时间，默认500ms
