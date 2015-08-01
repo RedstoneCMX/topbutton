@@ -13,6 +13,5 @@
 * FadeOuttime:返回按钮渐变消失的时间，默认500ms
 * Totoptime:滚动返回顶部所用时间，默认300ms   
 
-
 ##展示效果
 具体可参考demo.html
